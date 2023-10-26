@@ -1,0 +1,27 @@
+header .logo {
+  width: 40px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header1 button {
+  margin-right: 20px;
+}
+
+.header2 button {
+  background: rgb(241, 241, 241);
+  padding: 15px;
+  border-radius: 35px;
+}
+
+.header2 button img {
+  width: 20px;
+}
+
+.loveButton {
+  margin-right: 20px;
+}

@@ -1,0 +1,23 @@
+button {
+    text-wrap: nowrap;
+    transition: ease;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+button:hover{
+    opacity: 0.5;
+}
+
+a {
+    transition: ease;
+    cursor: pointer;
+}
+
+a:hover {
+    opacity: 0.5;
+}
